@@ -75,16 +75,20 @@ streamlit run stream.py
 
 ## 📸 Screenshots
 
-### Home Page
+## Home Page
 
-> *(Add screenshot here)*
+![Home Page](screenshots/home.png)
 
-### Revision Library
+## Revision Library
 
-> *(Add screenshot here)*
+![Revision Library](screenshots/revision.png)
 
 ---
+## Lecture Details
 
+![Lecture Details](screenshots/lecture.png)
+
+---
 ## 🔮 Future Improvements
 
 * User authentication
