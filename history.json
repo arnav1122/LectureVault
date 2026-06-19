@@ -1,0 +1,66 @@
+[ 
+    {
+        "title": "Introduction to Solutions",
+        "subject": "Chemistry",
+        "chapter": "Solutions",
+        "topic": "Introduction to Solutions and their Classification",
+        "key_points": [
+            "Manzil series focuses on theoretical discussion and PYQs for JEE Main preparation.",
+            "Advice to practice PYQs from the last 4-6 years due to NTA's predictable nature.",
+            "First Manzil test is scheduled for November 30th.",
+            "A Solution is defined as a homogeneous mixture of two or more non-reacting substances.",
+            "Homogeneous means uniform throughout the system.",
+            "Heterogeneous mixtures (e.g., sand in water) are not considered solutions.",
+            "Solutions are classified by the number of components: Binary (2 components), Ternary (3 components), Quaternary (4 components), etc.",
+            "The JEE syllabus primarily focuses on Binary Solutions.",
+            "Solute and Solvent can be any state of matter (solid, liquid, or gas), and the resulting solution can also be solid, liquid, or gas.",
+            "Common misconception that solutions are always liquid with solid solutes is incorrect."
+        ],
+        "next_topic": "Concentration Terms, Vapor Pressure, and Colligative Properties",
+        "video_id": "f6ENSghG7T4",
+        "date": "18-06-2026"
+    },
+    {
+        "title": "Chemical Bonding",
+        "subject": "Chemistry",
+        "chapter": "Chemical Bonding",
+        "topic": "Valence Electron and Lewis Symbol",
+        "key_points": [
+            "Chemical Bonding is identified as the most important chapter in chemistry, potentially contributing three questions in exams.",
+            "The lecture will focus on logic, reasoning, and question-attempting strategies.",
+            "The approximate duration of the chapter is 9 hours.",
+            "PW app features for the 'Maanjil' series include Class Notes, Daily Practice Problems (DPPs), Test Series (with a specific test on Nov 30th), PYQ sessions, Short Notes, and AI doubt assistance.",
+            "Enrollment for the course is completely free.",
+            "Key topics to be covered include: Valence Electron, Lewis Symbol, Octet Rule, Covalency, Valence Bond Theory (VBT), Resonance, Valence Shell Electron Pair Repulsion (VSEPR) Theory, Hybridization, p\u03c0-p\u03c0 & p\u03c0-d\u03c0 bonds, effects of percentage S-character on bond angle and bond length, Dipole Moment, Molecular Orbital Theory (MOT), Ionic Bonding (including Fajan's Rule), Intermolecular Forces of Attraction, and Hydrogen Bonding.",
+            "Topics such as Back Bonding, Bridge Bonding, Order of Boiling Point, and Bond Dissociation Energy will be covered in the P-block chapter.",
+            "The course aims to cover a total of 120 questions.",
+            "Recommended books are 'Easy Notes for Inorganic Chemistry' (for JEE) and 'NEET Easy Notes' (for NEET).",
+            "A Telegram channel will provide additional questions and some book PDFs."
+        ],
+        "next_topic": "Group 1, 2, 13, 14, 15, 16, 17, 18 elements and their valence electrons.",
+        "video_id": "kS8s_WX0IlY",
+        "date": "18-06-2026"
+    },
+    {
+        "title": "JEE 2025: Relation & Function L1",
+        "subject": "Mathematics",
+        "chapter": "Relation & Function",
+        "topic": "Introduction to Relation & 11th Grade Recall",
+        "key_points": [
+            "Introduction to JEE 2025 Lecture 1 on Relation & Function for Class 12.",
+            "The session offers a detailed one-shot covering basics to advanced concepts, suitable for new learners.",
+            "Practice sheets with video solutions are provided, including important questions from previous year's lectures with time-stamped solutions.",
+            "Topics to be covered: Relation, Types of Relation, Function & its classification, Composition of Function, Inverse of a Function.",
+            "Identified 'Types of Relation' and 'Composition of Function' as critical topics for JEE Main & Advanced.",
+            "Revision of 11th-grade Relation concepts:",
+            "  - Cartesian Product (A x B): definition, elements as ordered pairs, number of elements (|A| * |B|).",
+            "  - Relation: defined as any subset of A x B. Total number of relations = 2^(|A x B|).",
+            "  - Relation on A: refers to a relation from A to A (subset of A x A).",
+            "  - Methods of describing a Relation: roster form (listing pairs), set-builder form (characteristic), 'a R b' notation.",
+            "  - Understanding and identifying Domain, Codomain, and Range of a Relation through an example."
+        ],
+        "next_topic": "Types of Relation",
+        "video_id": "j9UeuYDob8Y",
+        "date": "19-06-2026"
+    }
+]
